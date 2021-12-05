@@ -1,0 +1,4 @@
+export const SET_CITY = 'SET_CITY';
+export const UPDATE_CITY = 'UPDATE_CITY';
+export const SET_WEATHER_REPORT = 'SET_WEATHER_REPORT';
+export const UPDATE_WEATHER_REPORT = 'UPDATE_WEATHER_REPORT';
